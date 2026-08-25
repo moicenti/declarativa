@@ -1,4 +1,4 @@
-%para suprimir errores
+%para suprimir warinings
 :- discontiguous tipo/2.
 :- discontiguous objeto/2.
 :- discontiguous dificultad/3.
